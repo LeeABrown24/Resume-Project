@@ -271,8 +271,7 @@ footer {
 
 .progress {
     position: relative;
-    height: 25px;
-    margin-bottom: 4px;    ]
+    margin-bottom: 4px;
 }
 
 .progress-type {
@@ -282,4 +281,8 @@ footer {
     padding: 3px 30px 2px 10px;
     color: #fafafa;
     background: rgba(25, 25, 25, 0.2);
+}
+
+.progress-section {
+    margin: 40px 20px;
 }
